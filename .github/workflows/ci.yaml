@@ -43,5 +43,5 @@ jobs:
         uses: 'google-github-actions/upload-cloud-storage@v1'
         with:
           path: 'public'
-          destination: 'bsj8'
+          destination: '1660_bucket'
           parent: false
